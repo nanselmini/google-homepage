@@ -1,0 +1,45 @@
+.header{
+	display: ;
+	text-align: right;
+
+}
+.header p{
+	text-align: right;
+	display: inline;
+	font-size: 0.75em;
+}
+.lg-logo{
+	display: block;
+	text-align: center;
+	vertical-align: center;
+	height:90%;
+	/*border:1px dashed black;*/
+}
+
+#logo{
+	height:192px;
+	width:392px;
+	position: center;
+	padding-top: 9%;
+}
+.footer{
+	font-size: .9em;
+	vertical-align: center;
+	text-align: 
+}
+.lfoot {
+	float: left;
+	display: inline;
+	text-align: left;
+	width:30%;
+}
+
+.rfoot{
+	float: right;
+	display: inline;
+	text-align: right;
+	width:30%;
+}
+.lfoot p, .rfoot p{
+	display: inline;
+}
